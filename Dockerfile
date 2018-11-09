@@ -1,4 +1,4 @@
-FROM node:11.1.0-alpine
+FROM node:10.3.0-alpine
 
 LABEL maintainer="Armin Shalchian <armin536@gmail.com>" \
       org.label-schema.vendor="Strapi" \
